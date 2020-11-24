@@ -1,0 +1,6 @@
+python 类型判断
+
+type():  返回所属类型， 不考虑继承
+isinstance(object, class): 返回bool 考虑继承
+issubclass(class1, class2) : 返回bool, class2是否是class1的子类
+
